@@ -1,0 +1,22 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin:0;
+}
+  
+.container {}
+
+.logo-container {
+    text-align: center
+}
+
+.logo {
+    width: 200px;
+}
+.logo-text {
+    font-weight: 400;
+    font-size: 12px;
+    margin: 0;
+    padding: 10px 0;
+    background: rgb(252,248,238);
+    border-top: 1px solid orange;
+}
